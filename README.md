@@ -1,6 +1,6 @@
 ### Hi there my name's Janek 👋
 
-I'm a full-stack developer from Poland specialising mainly in the web applications and desktop apps.
+I'm a full-stack developer from Poland specializing mainly in the web applications and desktop apps.
 I enjoy learning new technologies and getting to know how things in Computer Science really work under the hood.
 I started coding in High School and since then it became my passion. Currently studying on a University and looking
 for new opportunities to grow
