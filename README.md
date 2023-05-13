@@ -19,7 +19,7 @@ for new opportunities to grow
 - 💻 With 4 years of hobbystic experience and 2 years of real IT job experience
 - 🎓 Studying in Wrocław University of Science and Technology
 - 📫 How to reach me: jan.napieralski.torun@wp.pl
-- 📚 Reading "Fahrenheit 451" 
+- 📚 Reading "Brave New World" 
 - 💖 I like sci-fi books, philosophy and calisthenics
 
 
