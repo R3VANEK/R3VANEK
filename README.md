@@ -14,12 +14,12 @@ for new opportunities to grow
 &nbsp;
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on CRM for personal client
-- 🌱 Currently Learning C and Bash
+- 🔭 I’m currently working on Prestashop and Wordpress websites for my clients
+- 🌱 Currently Learning in depth React, Webpack and Tailwind
 - 💻 With 4 years of hobbystic experience and 2 years of real IT job experience
 - 🎓 Studying in Wrocław University of Science and Technology
 - 📫 How to reach me: jan.napieralski.torun@wp.pl
-- 📚 Reading "Brave New World" 
+- 📚 Reading "Meditiations by Marcus Aurelius" 
 - 💖 I like sci-fi books, philosophy and calisthenics
 
 
