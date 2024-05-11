@@ -14,12 +14,12 @@ for new opportunities to grow
 &nbsp;
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on Prestashop and Wordpress websites for my clients
-- 🌱 Currently Learning in depth React, Webpack and Tailwind
+- 🔭 I’m currently working with Django and Graphql as Backend Developer
+- 🌱 Currently Learning in depth Django, C++
 - 💻 With 4 years of hobbystic experience and 2 years of real IT job experience
 - 🎓 Studying in Wrocław University of Science and Technology
 - 📫 How to reach me: jan.napieralski.torun@wp.pl
-- 📚 Reading "Futu.re by Dmitry Glukhovsky" 
+- 📚 Reading "The Black Swan: The Impact of the Highly Improbable by Nassim Nicholas Taleb" 
 - 💖 I like sci-fi books, philosophy and calisthenics
 
 
