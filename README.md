@@ -1,25 +1,11 @@
 ### Hi there my name's Janek 👋
 
-I'm a full-stack developer from Poland specializing mainly in the web applications and desktop apps.
-I enjoy learning new technologies and getting to know how things in Computer Science really work under the hood.
-I started coding in High School and since then it became my passion. Currently studying on a University and looking
-for new opportunities to grow
-
-<hr></hr>
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/R3VANEK)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jan.napieralski.torun@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:jan.napieralski.torun@wp.pl)
-
 &nbsp;
-**Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working with Django and Graphql as Backend Developer
-- 🌱 Currently Learning in depth Django, C++
-- 💻 With 5 years of hobbystic experience and 3 years of real IT job experience
-- 🎓 Studying in Wrocław University of Science and Technology
+- 🔭 I’m currently working with Django as Backend Developer
+- 🌱 Learning in depth Django, Celery and System Design
 - 📫 How to reach me: jan.napieralski.torun@wp.pl
-- 📚 Reading "The Black Swan: The Impact of the Highly Improbable by Nassim Nicholas Taleb" 
+- 📚 Reading "Xeele Sequence" 
 - 💖 I like sci-fi books, philosophy and calisthenics
 
 
@@ -51,10 +37,12 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
-  <code><img width="10%" src="https://prestaguru.pl/blog/wp-content/uploads/2022/01/Prestashop-logo-vector.png"></code>
+   <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
+
   <br/>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-   <code><img width="10%" src="https://hashdesign.pl/wp-content/uploads/2021/01/logo-wordpress-logo-png.png"></code>
+  <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></code>
 </p>
 
 <p width="100%"></p>
@@ -64,7 +52,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <hr>
 
 <p align="center">
-  <i>Thanks for visiting. Take a look at my repositories and let's get in touch :)</i>
+  <i>Thanks for visiting :)</i>
 
 <p align="center">
 <a href= "https://github.com/R3VANEK"><img width="3%" src="https://simpleicons.org/icons/github.svg"/></a>
