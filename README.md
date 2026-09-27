@@ -2,11 +2,11 @@
 
 &nbsp;
 
-- 🔭 I’m currently working with Django as Backend Developer
+- 🔭 I’m currently working with as Python Backend Developer
 - 🌱 Learning in depth Django, Celery and System Design
 - 📫 How to reach me: jan.napieralski.torun@wp.pl
-- 📚 Reading "Xeele Sequence" 
-- 💖 I like sci-fi books, philosophy and calisthenics
+- 📚 Reading "Children of Time" by Adrian Tchaikovsky
+- 💖 I like sci-fi books, painting miniatures and playing MTG card game
 
 
 
